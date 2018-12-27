@@ -1,18 +1,11 @@
 package br.com.guacom.oop.polimorfismo;
 
 /*
-
 Contrato Autenticavel
-
     Quem assina esse contrato precisa implementar
-
         Metodo setSenha
-
         Metodo autentica
-
 */
-
-
 
 /*
 
